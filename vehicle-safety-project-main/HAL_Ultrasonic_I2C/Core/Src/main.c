@@ -5,7 +5,7 @@
   * @brief          : Main program body
   ******************************************************************************
   * @attention
-  * author name = "chetna sahu";
+  * author name = "Karishma Ghadge";
   * Copyright (c) 2024 STMicroelectronics.
   * All rights reserved.
   *
